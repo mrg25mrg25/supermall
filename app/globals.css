@@ -2,8 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 .mystyle{
- display: flex;
+    display: flex;
+    border: 1px solid red;
+    
 }
+
+
 
 
 
